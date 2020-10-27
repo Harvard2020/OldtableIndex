@@ -1,0 +1,108 @@
+.table {
+		display: inline-table;
+            	width: 100%;
+		Margin-left; 30 px;
+		margin-right: 10px;
+		padding: 20px;
+               }
+		th, td {      
+            		padding: 5px;
+            		text-align: center;
+			
+               	}
+            	th {      
+            		background-color: lightgreen;
+               }
+
+<div class="container">
+  	<div class="row">
+	  	<div class="col-sm-2"> First column</div>
+    		<div class="col-sm-2"> Second colums</div>
+    		<div class="col-sm-2"> third columns</div>
+		<div class="col-sm-2">Fourth column</div>
+  	</div>
+   </body>
+</html>
+
+
+<div class="w-100"></div>
+		<div class="row">
+		<div "class= col-lg-3 col-sm-6">
+			300000.
+		</div>
+		<div class= "col-lg-3 col-sm-6">
+			1200.
+		</div>
+		<div class= "col-lg-3 col-sm-6">
+			25000.
+		</div>
+		<div class= "col-lg-3 col-sm-6">
+			85000.
+		</div>
+		<div class="w-100"></div>
+		<div class="row">
+		<div class= col-lg-3 col-sm-6>
+			300000
+		</div>
+		<div class= col-lg-3 col-sm-6>
+			1200
+		</div>
+		<div class= col-lg-3 col-sm-6>
+			25000
+		</div>
+		<div class= col-lg-3 col-sm-6>
+			85000
+		</div>
+		<div class="w-100"></div>
+		<div class="row">
+		<div class= col-lg-3 col-sm-6>
+			300000
+		</div>
+		<div class= col-lg-3 col-sm-6>
+			1200
+		</div>
+		<div class= col-lg-3 col-sm-6>
+			25000
+		</div>
+		<div class= col-lg-3 col-sm-6>
+			85000
+		</div>
+
+
+<table>
+            <tr>
+                <th>total positive cases</th>
+                <th>new positive cases</th>
+                <th>total death</th>
+                <th>new death</th>
+                <th>recovery cases</th>
+           </tr>
+           <tr>
+                <td>300000</td>
+                <td>1200</td>
+                <td>25000</td>
+                <td>85</td>
+                <td>1000000</td>
+           </tr>
+	      <tr>
+                <td>300000</td>
+                <td>1200</td>
+                <td>25000</td>
+                <td>85</td>
+                <td>1000000</td>
+           </tr>
+	      <tr>
+                <td>300000</td>
+                <td>1200</td>
+                <td>25000</td>
+                <td>85</td>
+                <td>1000000</td>
+           </tr>
+	      <tr>
+                <td>300000</td>
+                <td>1200</td>
+                <td>25000</td>
+                <td>85</td>
+                <td>1000000</td>
+           </tr>
+        </table>
